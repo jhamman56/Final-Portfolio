@@ -1,4 +1,4 @@
-# Final Portfolio
+# Final Portfolio - James's Portfolio
 
 This repository is a collection of some of my key learnings during my XXXX - XXXX apprenticeship at COMPANY_HERE.
 
